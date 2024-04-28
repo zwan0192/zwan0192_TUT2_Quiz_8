@@ -1,9 +1,7 @@
 # zwan0192_TUT2_Quiz_8
 
-## This is my research report
+## Imaging Technique Inspiration
 
-### Imaging Technique Inspiration
+![This is the first image](readmeImages/img_1.jpg)
 
-
-
-### Coding Technique Exploration
+## Coding Technique Exploration
